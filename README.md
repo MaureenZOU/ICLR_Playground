@@ -7,12 +7,22 @@ In this project, collaborate with GPT4-Classic (~~GPT4-V is stupid~~) we crawl t
 * Powered by [GPT4](), we support rating by abstract and tittle with in context learning capability.
 
 ## Statistics
-Till Dec.30.2023, we get the following statistics:
+Until **Dec.30.2023**, we get the following statistics:
 
--> Total Number of Active Papers: 5916
+&#8594; Total Number of **Active** Papers: 5916 <br/>
+&#8594; Total Number of **Active** Reviews: 22824 <br/>
+&#8594; Average Rating: 5.39 <br/>
+&#8594; Median Rating: 6.00
 
--> Total Number of Active Reviews: 22824
+## Myths
+:interrobang: *The ratings are biased towards paper id:*
 
--> Average Rating: 5.39
+![](src/paper_id.png)
 
--> Median Rating: 6.00
+:interrobang: *The ratings are biased towards paper title length:*
+
+![](src/tittle_length.png)
+
+:interrobang: *The ratings are biased towards the primary research area:*
+
+![](src/primary_area.png)

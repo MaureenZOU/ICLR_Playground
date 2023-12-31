@@ -10,6 +10,9 @@ In this project, collaborate with GPT4-Classic (~~GPT4-V is stupid~~) we crawl t
 Till Dec.30.2023, we get the following statistics:
 
 -> Total Number of Active Papers: 5916
+
 -> Total Number of Active Reviews: 22824
+
 -> Average Rating: 5.39
+
 -> Median Rating: 6.00

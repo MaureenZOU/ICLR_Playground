@@ -15,6 +15,10 @@ Until **Dec.30.2023**, we get the following statistics:
 &#8594; Median Rating: 6.00
 
 ## Myths
+:interrobang: *The ratings are biased towards the primary research area:*
+
+![](src/primary_area.png)
+
 :interrobang: *The ratings are biased towards paper id:*
 
 ![](src/paper_id.png)
@@ -22,7 +26,3 @@ Until **Dec.30.2023**, we get the following statistics:
 :interrobang: *The ratings are biased towards paper title length:*
 
 ![](src/tittle_length.png)
-
-:interrobang: *The ratings are biased towards the primary research area:*
-
-![](src/primary_area.png)

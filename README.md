@@ -1,4 +1,4 @@
-# :full_moon_with_face: ICLR Playground
+# :full_moon_with_face: ICLR24 Playground
 In this project, collaborate with GPT4-Classic (~~GPT4-V is stupid~~) we crawl the metadata of all active [ICLR2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) submissions, and explore the following contents:
 
 * Fact of submission statistics

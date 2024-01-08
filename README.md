@@ -3,8 +3,7 @@ In this project, collaborate with GPT4-Classic (~~GPT4-V is stupid~~) we crawl t
 
 * Fact of submission statistics
 * Intuitive Myths of Submission : )
-* Powered by [FIND](), we support fetching the top related articals given keywords together with the ratings.
-* Powered by [GPT4](), we support rating by abstract and tittle with in context learning capability.
+* Powered by [FIND](), we support fetching the top related articles given keywords together with the ratings.
 
 ## Statistics
 Until **Dec.30.2023**, we get the following statistics:

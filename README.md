@@ -3,7 +3,7 @@ In this project, collaborate with GPT4-Classic (~~GPT4-V is stupid~~) we crawl t
 
 * Fact of submission statistics
 * Intuitive Myths of Submission : )
-* Powered by [FIND](), we support fetching the top related articles given keywords together with the ratings.
+* Powered by [FIND](https://github.com/UX-Decoder/FIND), we support fetching the top related articles given keywords together with the ratings.
 
 ## Statistics
 Until **Dec.30.2023**, we get the following statistics:
@@ -25,3 +25,9 @@ Until **Dec.30.2023**, we get the following statistics:
 :interrobang: *The ratings are biased towards paper title length:*
 
 ![](src/tittle_length.png)
+
+## Fetching Papers via [FIND](https://github.com/UX-Decoder/FIND)
+<img width="1265" alt="Screenshot 2024-01-08 at 5 10 23 PM" src="https://github.com/MaureenZOU/ICLR_Playground/assets/11957155/6cf1f299-862b-4f4d-ba79-c83109cf2e97">
+
+
+

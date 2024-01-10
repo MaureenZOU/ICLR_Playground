@@ -26,7 +26,7 @@ Until **Dec.30.2023**, we get the following statistics:
 
 ![](src/tittle_length.png)
 
-## Fetching Papers via [FIND](https://github.com/UX-Decoder/FIND)
+## Fetching Papers via [FIND]([https://github.com/UX-Decoder/FIND](http://find.xyzou.net:6789/))
 <img width="1265" alt="Screenshot 2024-01-08 at 5 10 23 PM" src="https://github.com/MaureenZOU/ICLR_Playground/assets/11957155/6cf1f299-862b-4f4d-ba79-c83109cf2e97">
 
 
